@@ -222,7 +222,7 @@ DEPENDENCIES
   web-console (>= 4.1.0)
   webdrivers
   webpacker (~> 5.0)
-
+bundle lock remote: --add-platform x86_64-linux
 RUBY VERSION
    ruby 2.6.6p146
 
